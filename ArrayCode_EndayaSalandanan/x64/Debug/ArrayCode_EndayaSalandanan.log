@@ -1,0 +1,3 @@
+﻿  ArrayCode_EndayaSalandanan.cpp
+C:\Users\Christian Kerby\source\repos\ArrayCode_EndayaSalandanan\ArrayCode_EndayaSalandanan.cpp(27,22): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  ArrayCode_EndayaSalandanan.vcxproj -> C:\Users\Christian Kerby\source\repos\ArrayCode_EndayaSalandanan\x64\Debug\ArrayCode_EndayaSalandanan.exe
